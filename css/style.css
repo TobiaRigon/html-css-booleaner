@@ -6,3 +6,15 @@
 
 
 /* header */
+header {
+    background-color: rgb(103, 169, 255);
+    background-image:url(../img/pattern.png);
+    height: 170px;
+}
+
+#logo{
+    position:bottom;
+    height:45%;
+    margin-top:75px;
+    margin-left:3%;
+}
