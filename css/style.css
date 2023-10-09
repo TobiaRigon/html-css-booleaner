@@ -60,28 +60,60 @@ a{
     background-color: yellow;
 }
 
+
 .element{
     margin-bottom: 2%;
     list-style-position: inside;
-    text-align: left;
-    
+    text-align: left;  
 }
 
-/* table */
 
+/* table */
 #long{
     width:60%;
 }
+
 
 th{
     background-color: #109ed6;
     color: white;
 }
 
+
 tr{
     background-color: #a4e5ff;
 }
 
+
 #center{
     background-color: white;
+}
+
+/* footer */
+footer{
+    margin-left:2%;
+}
+
+
+h2{
+    font-size: 18px;
+    color: gray;
+}
+
+
+.consigliati{
+    color: white;
+    height:150px;
+    background-repeat: no-repeat;
+    margin-top:2%;
+}
+
+
+#consigliato1{
+    background-image: url(../img/monitor.jpg);  
+}
+
+
+#consigliato2{
+    background-image: url(../img/graph.jpg);
 }
