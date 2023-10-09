@@ -18,11 +18,17 @@ header {
     position:bottom;
     height:45%;
     margin-top:75px;
-    margin-left:3%;
+    margin-left:2%;
 }
 
 /* Sezione1 - Intestazione  */
+main{
+    margin:2%;
+}
 
+section{
+    margin-top: 2%;
+}
 h1 {
 font-size: 40px;;
 }
@@ -32,7 +38,7 @@ h3{
     color: gray;
 }
 
-#data{
+.data{
     font-size: 15px;
     color: gray;
 }
