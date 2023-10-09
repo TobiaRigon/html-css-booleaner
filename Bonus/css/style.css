@@ -1,0 +1,123 @@
+/* Generali */
+*{
+    margin:0;
+    padding:0;
+    font-family:  'Times New Roman', Times, serif;
+}
+
+
+/* header */
+header {
+    background-color: rgb(103, 169, 255);
+    background-image:url(../img/pattern.png);
+    height: 170px;
+    
+}
+
+#logo{
+    position:bottom;
+    height:45%;
+    margin-top:75px;
+    margin-left:12%;
+}
+
+/* Sezione1 - Intestazione  */
+main{
+    margin-top:2%;
+    margin-bottom:2%;
+    margin-left: 12%;
+    margin-right: 12%;
+    font-size: 18px;
+}
+
+
+section{
+    margin-top: 2%;
+}
+
+
+h1 {
+font-size: 40px;;
+}
+
+
+h3{
+    font-size: 15px;
+    color: gray;
+}
+
+
+.data{
+    font-size: 15px;
+    color: gray;
+}
+
+
+a{
+    color: rgb(103, 169, 255) ;
+    text-decoration: none;
+}
+
+
+#High {
+    background-color: yellow;
+}
+
+
+.element{
+    margin-bottom: 2%;
+    list-style-position: inside;
+    text-align: left;  
+}
+
+
+/* table */
+#long{
+    width:60%;
+}
+
+
+th{
+    background-color: #109ed6;
+    color: white;
+}
+
+
+tr{
+    background-color: #a4e5ff;
+}
+
+
+#center{
+    background-color: white;
+}
+
+/* footer */
+footer{
+    margin-left: 12%;
+    margin-right: 12%;
+}
+
+
+h2{
+    font-size: 18px;
+    color: gray;
+}
+
+
+.consigliati{
+    color: white;
+    height:150px;
+    background-repeat: no-repeat;
+    margin-top:2%;
+}
+
+
+#consigliato1{
+    background-image: url(../img/monitor.jpg);  
+}
+
+
+#consigliato2{
+    background-image: url(../img/graph.jpg);
+}
