@@ -24,26 +24,64 @@ header {
 /* Sezione1 - Intestazione  */
 main{
     margin:2%;
+    font-size: 18px;
 }
+
 
 section{
     margin-top: 2%;
 }
+
+
 h1 {
 font-size: 40px;;
 }
+
 
 h3{
     font-size: 15px;
     color: gray;
 }
 
+
 .data{
     font-size: 15px;
     color: gray;
 }
 
+
 a{
     color: rgb(103, 169, 255) ;
     text-decoration: none;
+}
+
+
+#High {
+    background-color: yellow;
+}
+
+.element{
+    margin-bottom: 2%;
+    list-style-position: inside;
+    text-align: left;
+    
+}
+
+/* table */
+
+#long{
+    width:60%;
+}
+
+th{
+    background-color: #109ed6;
+    color: white;
+}
+
+tr{
+    background-color: #a4e5ff;
+}
+
+#center{
+    background-color: white;
 }
